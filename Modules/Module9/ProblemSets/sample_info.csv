@@ -1,0 +1,8 @@
+ID,Treatment,ProcessingBatch
+treated1fb.txt,Treated,Batch1
+treated2fb.txt,Treated,Batch2
+treated3fb.txt,Treated,Batch2
+untreated1fb.txt,Control,Batch1
+untreated2fb.txt,Control,Batch1
+untreated3fb.txt,Control,Batch2
+untreated4fb.txt,Control,Batch2
